@@ -1,0 +1,4 @@
+PORT=4000
+MONGO_URI=mongodb+srv://tivi:SqZsopHbsRtRDO24@cluster0.1x4ks.mongodb.net/merndb2022?retryWrites=true&w=majority
+# MONGO_URI=mongodb://127.0.0.1:27017/merndb2022
+SECRET=mysecretepassword
